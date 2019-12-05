@@ -2,6 +2,10 @@
 
 > A clone of BrM 6.2
 
+# Deployed Test App
+
+[BrM Clone App on Netlify](https://lucid-hermann-847b4b.netlify.com/)
+
 ## Build Setup
 
 ``` bash
