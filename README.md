@@ -6,6 +6,8 @@
 
 [BrM Clone App on Netlify](https://lucid-hermann-847b4b.netlify.com/)
 
+Currently the only page working is under Bridges>View List
+
 ## Build Setup
 
 ``` bash
